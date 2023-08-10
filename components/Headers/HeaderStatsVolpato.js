@@ -58,7 +58,7 @@ export default function HeaderStats() {
                   statPercentColor="text-emerald-500"
                   statDescripiron="Since last month"
                   statIconName="fas fa-percent"
-                  statIconColor="bg-lightBlue-500"
+                  statIconColor="bg-sky-500"
                 />
               </div>
               <div className="w-full lg:w-6/12 xl:w-4/12 px-4">
@@ -70,7 +70,7 @@ export default function HeaderStats() {
                   statPercentColor="text-emerald-500"
                   statDescripiron="Since last month"
                   statIconName="fas fa-percent"
-                  statIconColor="bg-lightBlue-500"
+                  statIconColor="bg-sky-500"
                 />
               </div>
               <div className="w-full lg:w-6/12 xl:w-4/12 px-4">
@@ -82,7 +82,7 @@ export default function HeaderStats() {
                   statPercentColor="text-emerald-500"
                   statDescripiron="Since last month"
                   statIconName="fas fa-percent"
-                  statIconColor="bg-lightBlue-500"
+                  statIconColor="bg-sky-500"
                 />
               </div>
             </div>
